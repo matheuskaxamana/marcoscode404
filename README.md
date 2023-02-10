@@ -1,7 +1,7 @@
 
 <h1 align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
+   # Olá! eu sou o Matheus Marques! Seja Bem vindo 🌎😊 
    
 </h1>
    <br/>
@@ -41,11 +41,11 @@
   <br/>
 
    <div align="left" >👩‍🚀 
-      Olá, Me Marcos Vinicius, Tenho 22 Anos e Sou Apaixonado por Tecnologia e como a <br> construção delas ajudam milhares de Pessoas Atualmente.<br/>
+      Olá, Me Matheus Marques, Tenho 26 Anos e Sou Apaixonado por Tecnologia e como a <br> construção delas ajudam milhares de Pessoas Atualmente.<br/>
        Eu Sempre digo que a melhor forma de você aprender é ensinando e como a Educação pode mudar muitas Realidades! <br/>
        Bolsista Na Rocketseat estudo a Trilha de React.js - construção de interfaces. <br/>
        "Em um mundo onde a informação fica obsoleta cada vez mais rápido, velocidade de aprendizado é a chave para o sucesso".<br/>
-      - Sou técnico em informática no Hospital Unimed Porto Velho. <br/>
+      - Sou Estudante em Analise e Desenvolvimento de Sistemas no Instituto Estadual de Desenvolvimento da Educação Pofissional. <br/>
       -  Analise de suporte computacional; <br/>
       - Analise técnica e corretiva de erros em SO's e softwares em geral (Help desk); <br/>
       - Analise de Processos No Sistema Mv - Software de Gestão Hospitalar; <br/>
@@ -107,17 +107,16 @@ const stack = {
 <!-- imagens das linguagens  -->
  <div style="display: inline_block"><br>
   <h2>🛠 Tecnologias</h2>
-  <img align="center" alt="marcos-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="marcos-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="marcos-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="marcos-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="marcos-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Matheus-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" width="50" align="center" />
-  <img align="center" alt="marcos-CSS" height="40" width="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="marcos-React" height="40" width="55" src="https://icongr.am/devicon/linux-original.svg?size=108&color=e1d0d0" />
-  <img align="center" alt="marcos-React" height="50" width="55" src="https://icongr.am/devicon/gimp-plain.svg?size=108&color=e1d0d0"/>
-  <img align="center" alt="marcos-React" height="50" width="55" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor"/>
-  <img align="center" alt="marcos-React" height="45" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor"/>
+  <img align="center" alt="Matheus-CSS" height="40" width="50" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Matheus-React" height="40" width="55" src="https://icongr.am/devicon/linux-original.svg?size=108&color=e1d0d0" />
+  <img align="center" alt="Matheus-React" height="50" width="55" src="https://icongr.am/devicon/gimp-plain.svg?size=108&color=e1d0d0"/>
+  <img align="center" alt="Matheus-React" height="50" width="55" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor"/>
+  <img align="center" alt="Matheus-React" height="45" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor"/>
  
    </br>
   <img align="right" alt="marcos-pic" height="90" style="border-radius:50;" src="https://res.cloudinary.com/mahenrique94/image/upload/v1549717030/gif-bob-esponja-restaurante-pensando_bpy2ws.gif">
